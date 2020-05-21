@@ -522,7 +522,7 @@ public class JoystickView extends View
         // to force a new draw
         invalidate();
 
-        return true;
+        return false;
     }
 
 
